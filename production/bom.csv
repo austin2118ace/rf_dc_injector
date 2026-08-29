@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_Rect_L11.0mm_W3.4mm_P10.00mm_MKT,1,0.1uF,
+J1,RG-316-Through-Hole,1,RF_NO_DC,
+J2,RG-316-Through-Hole,1,RF_W_DC,
+J3,BarrelJack_Horizontal,1,Jack-DC,
+"L1, L2, L3, L4",L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2,4,100mH,
