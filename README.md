@@ -10,5 +10,8 @@ On the "extractor" side, the same board is used in the reverse configuration. Th
 I had several of these boards manufactured at Oshpark but JLCPCB/PCBWay are both valid options. There are two pads for coax connections; I used two lengths of RG316. For the DC power input/output, there is a footprint for a standard DC power jack.
 Choose value(s) of capacitance and inductance that make sense for your application.
 
+## Compatability
+This project was created using KiCad v10 and includes a custom footprint that you will need to ensure is correctly loaded. 
+
 Good luck and 73!
 KQ4TYW
